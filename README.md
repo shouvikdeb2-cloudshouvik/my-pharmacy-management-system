@@ -23,7 +23,8 @@
 6. [Security](#-security)
 7. [Code map](#-code-map)
 8. [FAQ](#-faq)
-9. [Author](#-author)
+9. [License](#-license)
+10. [Author](#-author)
 
 ---
 
@@ -137,6 +138,12 @@
 **Emails not sending?** Configure SMTP in Settings and use the SMTP test page.
 
 **Permission error on start?** Make the data folder writable: `chmod -R 755 <data-dir>`.
+
+---
+
+## 📄 License
+
+Released under the [MIT License](LICENSE) — free to use, modify and distribute, with the copyright notice kept.
 
 ---
 
