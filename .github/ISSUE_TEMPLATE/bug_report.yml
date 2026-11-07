@@ -1,0 +1,40 @@
+name: Bug report
+description: Something is broken or behaves unexpectedly
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What you did, what you expected, what you got.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Go to ...\n2. Click ...\n3. See error"
+    validations:
+      required: true
+  - type: input
+    id: php
+    attributes:
+      label: PHP version
+      placeholder: "8.3"
+    validations:
+      required: true
+  - type: dropdown
+    id: storage
+    attributes:
+      label: Storage mode
+      options: [JSON, MySQL]
+    validations:
+      required: true
+  - type: input
+    id: os
+    attributes:
+      label: OS / web server
+      placeholder: "Windows 11, php -S"
+  - type: markdown
+    attributes:
+      value: "Don't paste real customer data or passwords. Security problems: use the Security tab, not a public issue."
