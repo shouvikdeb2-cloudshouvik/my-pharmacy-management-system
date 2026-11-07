@@ -143,7 +143,7 @@
 
 ## 📄 License
 
-Released under the [MIT License](LICENSE) — free to use, modify and distribute, with the copyright notice kept.
+Free to **use**. Modifying or redistributing the software is **not permitted** without written permission. See [LICENSE](LICENSE).
 
 ---
 
