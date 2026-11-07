@@ -143,7 +143,7 @@
 
 ## 📄 License
 
-Open source under the [MIT License](LICENSE) — free to use, modify and distribute, with the copyright notice kept. Contributions welcome via pull request.
+Open source under the [MIT License](LICENSE) — free to use, modify and distribute, with the copyright notice kept. Contributions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
